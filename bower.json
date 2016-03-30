@@ -1,0 +1,30 @@
+{
+  "name": "boyler",
+  "authors": [
+    "itesic <ilija.tesic@gmail.com>"
+  ],
+  "description": "Boilerplate application for web",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "boilerplate",
+    "html",
+    "javascript",
+    "web",
+    "sass"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0",
+    "modernizr": "^3.3.1"
+  }
+}
